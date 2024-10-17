@@ -18,5 +18,5 @@ spec:
         app: app1
     spec:
       containers:
-      - image: docker.io/library/nw-database:latest
+      - image: docker.io/ewanwcw/team5-argo
         name: httpd

@@ -18,5 +18,5 @@ spec:
         app: app1
     spec:
       containers:
-      - image: kharatramesh/vadapavimages:biryani
+      - image: docker.io/library/nw-database:latest
         name: httpd
